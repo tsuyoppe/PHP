@@ -1,0 +1,21 @@
+@charset: utf8;
+
+body{
+background-image:url("background.svg");
+background-repeat: no-repeat;
+background-position: center center;
+}
+form{
+        font:normal;
+        color:block;
+        width: 100%;
+        height: 100%;
+}
+
+#sheet{
+       font:normal;
+       color: block;
+        opacity: 0.80;
+        width: 100%;
+        height: 100%;
+}
